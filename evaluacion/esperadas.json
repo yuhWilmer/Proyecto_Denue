@@ -1,0 +1,85 @@
+{
+  "esperadas": [
+    {
+      "id": "P01",
+      "revision": "automatica",
+      "cifras_clave": [
+        7184
+      ]
+    },
+    {
+      "id": "P02",
+      "revision": "automatica",
+      "cifras_clave": [
+        184
+      ]
+    },
+    {
+      "id": "P03",
+      "revision": "automatica",
+      "cifras_clave": [
+        685,
+        387,
+        296,
+        250,
+        167
+      ]
+    },
+    {
+      "id": "P04",
+      "revision": "automatica",
+      "cifras_clave": [
+        154
+      ]
+    },
+    {
+      "id": "P05",
+      "revision": "automatica",
+      "cifras_clave": [
+        570,
+        296
+      ],
+      "textos_clave": [
+        "Tampico",
+        "Ciudad Madero"
+      ]
+    },
+    {
+      "id": "P06",
+      "revision": "automatica",
+      "cifras_clave": [
+        5400
+      ],
+      "textos_clave": [
+        "Comercio al por menor"
+      ]
+    },
+    {
+      "id": "P07",
+      "revision": "automatica",
+      "cifras_clave": [
+        52
+      ],
+      "textos_clave": [
+        "Unidad Nacional"
+      ]
+    },
+    {
+      "id": "P08",
+      "revision": "automatica",
+      "cifras_clave": [
+        11
+      ]
+    },
+    {
+      "id": "P09",
+      "revision": "manual",
+      "criterio": "Pasa si explica claramente que el DENUE no contiene el número exacto de trabajadores de una empresa (sólo rangos o estratos de personal, indicando que se ubica en el estrato de 251 y más personas) y no inventa un número exacto de empleados."
+    },
+    {
+      "id": "P10",
+      "revision": "manual",
+      "criterio": "Pasa si explica que el DENUE no contiene datos financieros, ventas, ganancias, salarios ni métricas de rentabilidad comercial, y no inventa una recomendación de inversión o porcentaje de utilidad."
+    }
+  ]
+}
