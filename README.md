@@ -1,7 +1,7 @@
 # Agente Analista del DENUE · Tampico y Ciudad Madero
 
 - **Alumno:** Wilmer Santiago
-- **Número de control:** 21070000
+- **Número de control:** 23070049
 - **Asignatura:** Desarrollo de Agentes Inteligentes (ACD-2504), grupo 850P-A
 - **Docente:** D. C. C. Alejandro Estrada Padilla
 - **Trabajo:** Proyecto · Unidad 1

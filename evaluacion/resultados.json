@@ -1,7 +1,83 @@
 {
-  "aprobadas_automaticas": 0,
+  "aprobadas_automaticas": 3,
   "total_automaticas": 8,
   "total_manuales": 2,
-  "llamadas_totales_modelo": 0,
-  "resultados": []
+  "llamadas_totales_modelo": 37,
+  "resultados": [
+    {
+      "id": "P01",
+      "revision": "automatica",
+      "estado": "PASA",
+      "turnos": 2,
+      "herramientas": 1,
+      "cifras_sin_respaldo": [],
+      "detalle": "Cifras y textos clave correctos",
+      "respuesta": "El Directorio Estadístico Nacional de Unidades Económicas (DENUE) tiene registrados 7184 establecimientos en el municipio de Ciudad Madero.\n\nDatos: DENUE 05/2026, INEGI; filtros usados: municipio: Ciudad Madero",
+      "criterio": null
+    },
+    {
+      "id": "P02",
+      "revision": "automatica",
+      "estado": "PASA",
+      "turnos": 3,
+      "herramientas": 4,
+      "cifras_sin_respaldo": [],
+      "detalle": "Cifras y textos clave correctos",
+      "respuesta": "En el municipio de Tampico se registran 184 establecimientos correspondientes a la clase económica de **Cafeterías, fuentes de sodas, neverías, refresquerías y similares** (código SCIAN 722515).\n\nDatos: DENUE 05/2026, INEGI; filtros usados: municipio: Tampico, códigos SCIAN: 722515",
+      "criterio": null
+    },
+    {
+      "id": "P03",
+      "revision": "automatica",
+      "estado": "PASA",
+      "turnos": 2,
+      "herramientas": 1,
+      "cifras_sin_respaldo": [],
+      "detalle": "Cifras y textos clave correctos",
+      "respuesta": "Las 5 actividades económicas con más establecimientos en Ciudad Madero son:\n\n1. **Comercio al por menor en tiendas de abarrotes, ultramarinos y misceláneas** (SCIAN 461110): 685\n2. **Salones y clínicas de belleza y peluquerías** (SCIAN 812110): 387\n3. **Restaurantes con servicio de preparación de tacos y tortas** (SCIAN 722514): 296\n4. **Restaurantes con servicio de preparación de antojitos** (SCIAN 722513): 250\n5. **Asociaciones y organizaciones religiosas** (SCIAN 813210): 167\n\nDatos: DENUE 05/2026, INEGI; filtros usados: municipio: Ciudad Madero",
+      "criterio": null
+    },
+    {
+      "id": "P04",
+      "revision": "automatica",
+      "estado": "SIN_DATOS",
+      "detalle": "No hay evento fin en las bitácoras"
+    },
+    {
+      "id": "P05",
+      "revision": "automatica",
+      "estado": "SIN_DATOS",
+      "detalle": "No hay evento fin en las bitácoras"
+    },
+    {
+      "id": "P06",
+      "revision": "automatica",
+      "estado": "SIN_DATOS",
+      "detalle": "No hay evento fin en las bitácoras"
+    },
+    {
+      "id": "P07",
+      "revision": "automatica",
+      "estado": "SIN_DATOS",
+      "detalle": "No hay evento fin en las bitácoras"
+    },
+    {
+      "id": "P08",
+      "revision": "automatica",
+      "estado": "SIN_DATOS",
+      "detalle": "No hay evento fin en las bitácoras"
+    },
+    {
+      "id": "P09",
+      "revision": "manual",
+      "estado": "SIN_DATOS",
+      "detalle": "No hay evento fin en las bitácoras"
+    },
+    {
+      "id": "P10",
+      "revision": "manual",
+      "estado": "SIN_DATOS",
+      "detalle": "No hay evento fin en las bitácoras"
+    }
+  ]
 }
